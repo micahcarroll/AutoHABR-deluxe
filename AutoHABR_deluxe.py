@@ -4,8 +4,10 @@
 #
 # Redesigned by Micah Carroll in 2023 (original author: Rafael Soto, date unbeknownst)
 #
-# Description: This script automates the process of merging the latest expenses report (report.xlsx)
-#              into the current summary.xlsx. The output is saved to a different file.
+# Description: This script automates the process of merging the latest expenses report (report.xlsx) into the
+#              current summary.xlsx, creating what is infamously known as the HABRs report in a different file.
+#
+# Repository: for the latest version of this script, see https://github.com/micahcarroll/AutoHABR-deluxe
 #
 
 
